@@ -1,0 +1,626 @@
+{
+  "groups": [
+    {
+      "name": "Technology",
+      "areas": [
+        {
+          "name": "Software Development",
+          "professions": [
+            {
+              "title": "Full-Stack Developer",
+              "description": "A professional who works on both front-end and back-end development of web applications, creating complete, functional software solutions.",
+              "competencies": [
+                "Programming languages (JavaScript, Python, Java)",
+                "Front-end frameworks (React, Angular, Vue)",
+                "Back-end technologies (Node.js, Django, Spring)",
+                "Database management",
+                "System architecture design"
+              ],
+              "education": {
+                "degrees": ["Computer Science", "Software Engineering", "Information Technology"],
+                "universities": [
+                  "Massachusetts Institute of Technology (MIT)",
+                  "Stanford University",
+                  "ETH Zurich"
+                ],
+                "courses": [
+                  "Data Structures and Algorithms",
+                  "Web Development",
+                  "Database Systems",
+                  "Software Architecture"
+                ]
+              },
+              "career_paths": [
+                "Junior Developer",
+                "Mid-level Developer",
+                "Senior Developer",
+                "Tech Lead",
+                "CTO"
+              ],
+              "work_environments": [
+                "Tech startups",
+                "Software companies",
+                "Consultancies",
+                "Remote work options"
+              ],
+              "lifestyle": [
+                "Flexible working hours",
+                "Continuous learning culture",
+                "Collaborative environments",
+                "Project-based work cycles"
+              ],
+              "inspirational_figure": {
+                "name": "Linus Torvalds",
+                "description": "Creator of Linux and Git, exemplifying open-source innovation and collaborative development."
+              },
+              "mentors": [
+                "Experienced software architects",
+                "Open-source project maintainers",
+                "DevOps specialists"
+              ]
+            },
+            {
+              "title": "Data Scientist",
+              "description": "A professional who analyzes complex data to help organizations make informed decisions, combining statistics, mathematics, and programming.",
+              "competencies": [
+                "Statistical analysis",
+                "Machine learning",
+                "Programming (Python, R)",
+                "Data visualization",
+                "SQL and database querying"
+              ],
+              "education": {
+                "degrees": ["Statistics", "Mathematics", "Computer Science", "Data Science"],
+                "universities": [
+                  "Carnegie Mellon University",
+                  "University of California, Berkeley",
+                  "University of Oxford"
+                ],
+                "courses": [
+                  "Machine Learning",
+                  "Statistical Methods",
+                  "Big Data Analytics",
+                  "Deep Learning"
+                ]
+              },
+              "career_paths": [
+                "Data Analyst",
+                "Junior Data Scientist",
+                "Senior Data Scientist",
+                "Machine Learning Engineer",
+                "Chief Data Officer"
+              ],
+              "work_environments": [
+                "Tech companies",
+                "Financial institutions",
+                "Research organizations",
+                "E-commerce"
+              ],
+              "lifestyle": [
+                "Project-based work",
+                "Research-oriented environment",
+                "Cross-functional collaboration",
+                "Balance of creativity and analytical thinking"
+              ],
+              "inspirational_figure": {
+                "name": "Andrew Ng",
+                "description": "Co-founder of Coursera, former head of Google Brain, and a pioneer in machine learning education."
+              },
+              "mentors": [
+                "Senior data scientists",
+                "Domain experts in your industry",
+                "Academic researchers"
+              ]
+            },
+            {
+              "title": "Cybersecurity Specialist",
+              "description": "A professional who protects systems, networks, and data from digital attacks, implementing security measures and responding to breaches.",
+              "competencies": [
+                "Network security",
+                "Penetration testing",
+                "Security frameworks",
+                "Risk assessment",
+                "Incident response"
+              ],
+              "education": {
+                "degrees": ["Cybersecurity", "Computer Science", "Information Security"],
+                "universities": [
+                  "Georgia Institute of Technology",
+                  "Purdue University",
+                  "SANS Technology Institute"
+                ],
+                "courses": [
+                  "Network Security",
+                  "Ethical Hacking",
+                  "Digital Forensics",
+                  "Cryptography"
+                ]
+              },
+              "career_paths": [
+                "Security Analyst",
+                "Penetration Tester",
+                "Security Engineer",
+                "Chief Information Security Officer (CISO)"
+              ],
+              "work_environments": [
+                "Government agencies",
+                "Financial institutions",
+                "Cybersecurity firms",
+                "Large corporations"
+              ],
+              "lifestyle": [
+                "High-stakes problem solving",
+                "Continuous learning environment",
+                "On-call responsibility for incidents",
+                "Balance of proactive and reactive work"
+              ],
+              "inspirational_figure": {
+                "name": "Bruce Schneier",
+                "description": "Cryptographer, computer security professional, and privacy specialist known for his work in security analysis."
+              },
+              "mentors": [
+                "Experienced security professionals",
+                "Certified ethical hackers",
+                "Compliance specialists"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Design & User Experience",
+          "professions": [
+            {
+              "title": "UX/UI Designer",
+              "description": "A professional who creates user-friendly digital experiences, focusing on both aesthetics and functionality of interfaces.",
+              "competencies": [
+                "User research",
+                "Wireframing and prototyping",
+                "Visual design",
+                "Usability testing",
+                "Information architecture"
+              ],
+              "education": {
+                "degrees": ["Interaction Design", "Human-Computer Interaction", "Graphic Design"],
+                "universities": [
+                  "Rhode Island School of Design",
+                  "Aalto University",
+                  "Royal College of Art"
+                ],
+                "courses": [
+                  "User-Centered Design",
+                  "Interface Design",
+                  "Design Thinking",
+                  "Visual Communication"
+                ]
+              },
+              "career_paths": [
+                "UI Designer",
+                "UX Researcher",
+                "Product Designer",
+                "Design Director"
+              ],
+              "work_environments": [
+                "Design agencies",
+                "Tech companies",
+                "Product-focused startups",
+                "Consultancies"
+              ],
+              "lifestyle": [
+                "Creative problem-solving",
+                "Collaborative workshops",
+                "User testing sessions",
+                "Balance of creativity and analytics"
+              ],
+              "inspirational_figure": {
+                "name": "Don Norman",
+                "description": "Author of 'The Design of Everyday Things' and pioneer in user-centered design."
+              },
+              "mentors": [
+                "Senior UX professionals",
+                "Product designers",
+                "Human factors specialists"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "areas": [
+        {
+          "name": "Clinical Medicine",
+          "professions": [
+            {
+              "title": "General Practitioner",
+              "description": "A physician who treats acute and chronic illnesses and provides preventive care and health education to a wide range of patients.",
+              "competencies": [
+                "Clinical diagnosis",
+                "Patient communication",
+                "Preventive medicine",
+                "Treatment planning",
+                "Interdisciplinary collaboration"
+              ],
+              "education": {
+                "degrees": ["Doctor of Medicine (MD)", "Doctor of Osteopathic Medicine (DO)"],
+                "universities": [
+                  "Harvard Medical School",
+                  "Johns Hopkins University School of Medicine",
+                  "University of Oxford Medical Sciences Division"
+                ],
+                "courses": [
+                  "Anatomy and Physiology",
+                  "Pathology",
+                  "Pharmacology",
+                  "Clinical Medicine"
+                ]
+              },
+              "career_paths": [
+                "Medical Student",
+                "Resident",
+                "General Practitioner",
+                "Family Medicine Specialist",
+                "Medical Director"
+              ],
+              "work_environments": [
+                "Private practices",
+                "Hospitals",
+                "Community health centers",
+                "Telehealth services"
+              ],
+              "lifestyle": [
+                "Regular patient interactions",
+                "Varied daily challenges",
+                "Continuous education requirements",
+                "Service-oriented work"
+              ],
+              "inspirational_figure": {
+                "name": "Dr. Paul Farmer",
+                "description": "Physician and anthropologist known for his humanitarian work providing healthcare to rural and underserved communities worldwide."
+              },
+              "mentors": [
+                "Experienced physicians",
+                "Medical educators",
+                "Public health specialists"
+              ]
+            },
+            {
+              "title": "Nurse Practitioner",
+              "description": "An advanced practice registered nurse who provides comprehensive healthcare services with a focus on preventive care and health management.",
+              "competencies": [
+                "Patient assessment",
+                "Diagnostic reasoning",
+                "Treatment planning",
+                "Health promotion",
+                "Collaborative practice"
+              ],
+              "education": {
+                "degrees": ["Bachelor of Science in Nursing (BSN)", "Master of Science in Nursing (MSN)"],
+                "universities": [
+                  "University of Pennsylvania School of Nursing",
+                  "Johns Hopkins School of Nursing",
+                  "University of Toronto Faculty of Nursing"
+                ],
+                "courses": [
+                  "Advanced Health Assessment",
+                  "Pathophysiology",
+                  "Pharmacology",
+                  "Health Promotion"
+                ]
+              },
+              "career_paths": [
+                "Registered Nurse",
+                "Nurse Practitioner",
+                "Clinical Specialist",
+                "Nurse Educator",
+                "Healthcare Administrator"
+              ],
+              "work_environments": [
+                "Hospitals",
+                "Primary care practices",
+                "Specialty clinics",
+                "Home health services"
+              ],
+              "lifestyle": [
+                "Direct patient care",
+                "Collaborative healthcare teams",
+                "Flexible scheduling options",
+                "Balance of independence and team-based practice"
+              ],
+              "inspirational_figure": {
+                "name": "Dr. Loretta Ford",
+                "description": "Co-founder of the first Nurse Practitioner program and pioneer in expanding nursing roles in healthcare."
+              },
+              "mentors": [
+                "Experienced nurse practitioners",
+                "Medical directors",
+                "Health policy advocates"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Healthcare Innovation",
+          "professions": [
+            {
+              "title": "Health Informatics Specialist",
+              "description": "A professional who combines healthcare knowledge with information technology to improve patient care, healthcare delivery, and research.",
+              "competencies": [
+                "Electronic health records management",
+                "Health data analytics",
+                "Healthcare IT systems",
+                "Information security",
+                "Process improvement"
+              ],
+              "education": {
+                "degrees": ["Health Informatics", "Medical Informatics", "Health Information Management"],
+                "universities": [
+                  "University of Michigan",
+                  "University of Minnesota",
+                  "University of Edinburgh"
+                ],
+                "courses": [
+                  "Clinical Information Systems",
+                  "Healthcare Data Analytics",
+                  "Electronic Health Records",
+                  "Healthcare Interoperability"
+                ]
+              },
+              "career_paths": [
+                "Clinical Data Analyst",
+                "Health Information Manager",
+                "Clinical Systems Analyst",
+                "Chief Medical Information Officer"
+              ],
+              "work_environments": [
+                "Hospitals and health systems",
+                "Healthcare software companies",
+                "Research institutions",
+                "Government health agencies"
+              ],
+              "lifestyle": [
+                "Project-based work",
+                "Collaborative cross-functional teams",
+                "Balance of technical and healthcare domains",
+                "Regular system implementation cycles"
+              ],
+              "inspirational_figure": {
+                "name": "Dr. Atul Butte",
+                "description": "Bioinformatician and entrepreneur known for translating big data into practical healthcare applications."
+              },
+              "mentors": [
+                "Health IT directors",
+                "Medical informaticians",
+                "Healthcare quality improvement specialists"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creative Arts",
+      "areas": [
+        {
+          "name": "Digital Media",
+          "professions": [
+            {
+              "title": "Content Creator",
+              "description": "A professional who develops and produces digital content across various platforms, engaging audiences with compelling stories and information.",
+              "competencies": [
+                "Storytelling",
+                "Video production",
+                "Social media strategy",
+                "Audience engagement",
+                "Brand development"
+              ],
+              "education": {
+                "degrees": ["Media Studies", "Digital Communications", "Journalism"],
+                "universities": [
+                  "University of Southern California",
+                  "New York University",
+                  "Royal Melbourne Institute of Technology"
+                ],
+                "courses": [
+                  "Digital Storytelling",
+                  "Content Strategy",
+                  "Video Production",
+                  "Social Media Marketing"
+                ]
+              },
+              "career_paths": [
+                "Social Media Specialist",
+                "Video Producer",
+                "Content Strategist",
+                "Brand Director"
+              ],
+              "work_environments": [
+                "Media companies",
+                "Self-employment/freelancing",
+                "Marketing agencies",
+                "Entertainment industry"
+              ],
+              "lifestyle": [
+                "Creative expression",
+                "Project-based work cycles",
+                "Flexible location options",
+                "Balance of independence and collaboration"
+              ],
+              "inspirational_figure": {
+                "name": "Casey Neistat",
+                "description": "Filmmaker and YouTube personality known for innovative video storytelling and authentic content creation."
+              },
+              "mentors": [
+                "Established content creators",
+                "Digital marketing strategists",
+                "Media production specialists"
+              ]
+            },
+            {
+              "title": "Game Developer",
+              "description": "A professional who designs and creates video games, combining technical skills with creative storytelling and user experience design.",
+              "competencies": [
+                "Game programming",
+                "3D modeling",
+                "Animation",
+                "Game design",
+                "User experience"
+              ],
+              "education": {
+                "degrees": ["Game Design", "Computer Science", "Interactive Media"],
+                "universities": [
+                  "DigiPen Institute of Technology",
+                  "University of Southern California Interactive Media",
+                  "ENJMIN (France)"
+                ],
+                "courses": [
+                  "Game Programming",
+                  "3D Animation",
+                  "Game Design Principles",
+                  "Interactive Storytelling"
+                ]
+              },
+              "career_paths": [
+                "Junior Developer",
+                "Game Designer",
+                "Senior Programmer",
+                "Creative Director",
+                "Independent Game Developer"
+              ],
+              "work_environments": [
+                "Game studios",
+                "Independent development",
+                "Interactive media companies",
+                "Educational game developers"
+              ],
+              "lifestyle": [
+                "Project cycles with intensive periods",
+                "Collaborative team environments",
+                "Creative problem-solving",
+                "Balance of technical and artistic work"
+              ],
+              "inspirational_figure": {
+                "name": "Hideo Kojima",
+                "description": "Game designer known for the Metal Gear series and for pushing the boundaries of storytelling in video games."
+              },
+              "mentors": [
+                "Experienced game developers",
+                "Game design educators",
+                "Technical art directors"
+              ]
+            },
+            {
+              "title": "Film Director",
+              "description": "A professional who oversees the creative aspects of filmmaking, guiding the technical crew and actors to fulfill a creative vision.",
+              "competencies": [
+                "Visual storytelling",
+                "Script analysis",
+                "Actor direction",
+                "Production management",
+                "Editing oversight"
+              ],
+              "education": {
+                "degrees": ["Film Studies", "Fine Arts", "Cinema Direction"],
+                "universities": [
+                  "New York University Tisch School of the Arts",
+                  "University of Southern California School of Cinematic Arts",
+                  "Centro Sperimentale di Cinematografia (Italy)"
+                ],
+                "courses": [
+                  "Film Direction",
+                  "Screenwriting",
+                  "Film Production",
+                  "Visual Storytelling"
+                ]
+              },
+              "career_paths": [
+                "Production Assistant",
+                "Assistant Director",
+                "Independent Filmmaker",
+                "Feature Film Director"
+              ],
+              "work_environments": [
+                "Film production companies",
+                "Independent filmmaking",
+                "Streaming platforms",
+                "Advertising agencies"
+              ],
+              "lifestyle": [
+                "Project-based intense work cycles",
+                "Collaborative creative teams",
+                "Balance of artistic vision and practical execution",
+                "Potential for travel and varied locations"
+              ],
+              "inspirational_figure": {
+                "name": "Greta Gerwig",
+                "description": "Actor turned acclaimed director known for authentic, character-driven films exploring complex personal narratives."
+              },
+              "mentors": [
+                "Established directors",
+                "Film producers",
+                "Cinematographers"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Traditional Arts",
+          "professions": [
+            {
+              "title": "Visual Artist",
+              "description": "A professional who creates original artwork using traditional or digital media, expressing ideas, emotions, and perspectives through visual forms.",
+              "competencies": [
+                "Technical art skills",
+                "Conceptual development",
+                "Art history knowledge",
+                "Personal style cultivation",
+                "Exhibition preparation"
+              ],
+              "education": {
+                "degrees": ["Fine Arts", "Visual Arts", "Studio Art"],
+                "universities": [
+                  "Rhode Island School of Design",
+                  "Royal College of Art",
+                  "École des Beaux-Arts"
+                ],
+                "courses": [
+                  "Drawing Fundamentals",
+                  "Color Theory",
+                  "Art History",
+                  "Studio Practice"
+                ]
+              },
+              "career_paths": [
+                "Emerging Artist",
+                "Gallery-Represented Artist",
+                "Commissioned Artist",
+                "Art Educator"
+              ],
+              "work_environments": [
+                "Personal studios",
+                "Artist residencies",
+                "Academic institutions",
+                "Design studios"
+              ],
+              "lifestyle": [
+                "Independent work structure",
+                "Creative expression",
+                "Exhibition cycles",
+                "Balance of solitary creation and community engagement"
+              ],
+              "inspirational_figure": {
+                "name": "Olafur Eliasson",
+                "description": "Contemporary artist known for large-scale installations exploring perception, movement, and embodied experience."
+              },
+              "mentors": [
+                "Established artists",
+                "Gallery curators",
+                "Art critics"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 
