@@ -1,0 +1,166 @@
+{
+  "questions": [
+    "Per iniziare, parlami un po' di te. Quali sono tre parole che useresti per descriverti?",
+    "Qual è stata l'ultima cosa che ti ha entusiasmato veramente e perché?",
+    "Quando ti senti più realizzato? In quali attività perdi completamente la cognizione del tempo?",
+    "Cosa ti blocca più spesso nel raggiungere i tuoi obiettivi?",
+    "Se potessi acquisire una nuova abilità in un istante, quale sceglieresti e perché?",
+    "Come reagisci solitamente di fronte alle difficoltà o ai fallimenti?",
+    "Quali sono i tuoi valori più importanti? Cosa ti guida nelle decisioni?",
+    "Quali competenze vorresti sviluppare nei prossimi anni?",
+    "Se potessi cambiare qualcosa del tuo percorso formativo passato, cosa cambieresti?",
+    "Come immagini la tua vita ideale tra 5 anni? Cosa stai facendo, dove sei, come ti senti?"
+  ],
+  "careerMap": {
+    "macrogroups": [
+      {
+        "name": "Creativo",
+        "areas": [
+          {
+            "name": "Design",
+            "professions": ["UX Designer", "Graphic Designer", "Product Designer", "UI Designer"]
+          },
+          {
+            "name": "Media e Comunicazione",
+            "professions": ["Content Creator", "Social Media Manager", "Copywriter", "Art Director"]
+          },
+          {
+            "name": "Arti Visive",
+            "professions": ["Fotografo", "Illustratore", "Artista Digitale", "Videomaker"]
+          }
+        ]
+      },
+      {
+        "name": "Tecnico-Scientifico",
+        "areas": [
+          {
+            "name": "Informatica",
+            "professions": ["Software Developer", "Data Scientist", "DevOps Engineer", "Security Specialist"]
+          },
+          {
+            "name": "Ingegneria",
+            "professions": ["Ingegnere Meccanico", "Ingegnere Civile", "Ingegnere Elettronico", "Project Manager"]
+          },
+          {
+            "name": "Scienza",
+            "professions": ["Ricercatore", "Biotecnologo", "Chimico", "Fisico Quantistico"]
+          }
+        ]
+      },
+      {
+        "name": "Socio-Umanistico",
+        "areas": [
+          {
+            "name": "Formazione",
+            "professions": ["Insegnante", "Formatore Aziendale", "Coach", "Pedagogista"]
+          },
+          {
+            "name": "Psicologia",
+            "professions": ["Psicologo Clinico", "Psicologo del Lavoro", "Neuropsicologo", "Counselor"]
+          },
+          {
+            "name": "Sostenibilità",
+            "professions": ["Environmental Consultant", "CSR Manager", "Specialista in Economia Circolare", "Green PR"]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPaths": [
+    {
+      "title": "User Experience Designer",
+      "university": "Politecnico di Milano",
+      "alternatives": ["IUAV Venezia", "ISIA Roma"],
+      "courses": ["Design della Comunicazione", "Interaction Design", "Human-Computer Interaction"],
+      "subjects": ["UI/UX Design", "Psicologia Cognitiva", "Prototipazione"],
+      "jobOpportunities": ["UX Designer", "Product Designer", "Interaction Designer"],
+      "masters": ["Master in Service Design", "Master in Digital Experience Design"],
+      "lifestyle": "Lavoro creativo in studi di design o aziende tech, possibilità di remote working, ambiente dinamico e collaborativo",
+      "inspirationalFigure": {
+        "name": "Don Norman",
+        "description": "Pioniere del design centrato sull'utente e autore di 'La caffettiera del masochista'"
+      },
+      "virtualMentor": {
+        "name": "Mike Monteiro",
+        "platform": "Twitter/Medium",
+        "focus": "Design ethics and professional practices"
+      },
+      "tags": ["creativo", "design", "tecnologia", "empatia", "problem-solving"]
+    },
+    {
+      "title": "Data Scientist",
+      "university": "Università di Bologna",
+      "alternatives": ["Università di Padova", "Università di Milano Bicocca"],
+      "courses": ["Informatica", "Data Science", "Statistica"],
+      "subjects": ["Machine Learning", "Analisi dei Dati", "Programmazione Python/R"],
+      "jobOpportunities": ["Data Scientist", "Data Analyst", "Machine Learning Engineer"],
+      "masters": ["Master in Big Data Analytics", "Master in Artificial Intelligence"],
+      "lifestyle": "Lavoro analitico in aziende tech o consulenza, possibilità di smart working, focus sulla risoluzione di problemi complessi",
+      "inspirationalFigure": {
+        "name": "Hilary Mason",
+        "description": "Data scientist, fondatrice di Fast Forward Labs e pioniera nell'applicazione pratica della data science"
+      },
+      "virtualMentor": {
+        "name": "Andrew Ng",
+        "platform": "Coursera",
+        "focus": "Machine learning and AI fundamentals"
+      },
+      "tags": ["analitico", "tecnologia", "matematica", "problem-solving", "innovazione"]
+    },
+    {
+      "title": "Environmental Sustainability Consultant",
+      "university": "Università di Trento",
+      "alternatives": ["Università Ca' Foscari Venezia", "Università di Torino"],
+      "courses": ["Scienze Ambientali", "Economia e Gestione dell'Ambiente", "Ingegneria Ambientale"],
+      "subjects": ["Economia Circolare", "Politiche Ambientali", "Gestione Risorse Naturali"],
+      "jobOpportunities": ["Sustainability Consultant", "Environmental Manager", "CSR Specialist"],
+      "masters": ["Master in Circular Economy", "Master in Sustainable Development"],
+      "lifestyle": "Consulenza per aziende e organizzazioni, possibilità di lavoro sul campo, contributo a progetti con impatto positivo sull'ambiente",
+      "inspirationalFigure": {
+        "name": "Janine Benyus",
+        "description": "Biologa e innovatrice, pioniera della biomimetica come approccio alla sostenibilità"
+      },
+      "virtualMentor": {
+        "name": "Kate Raworth",
+        "platform": "TED/Publications",
+        "focus": "Doughnut Economics and sustainable business models"
+      },
+      "tags": ["sostenibilità", "ambiente", "consulenza", "etica", "innovazione"]
+    }
+  ],
+  "exercises": [
+    {
+      "profession": "UX Designer",
+      "title": "Analisi di un'interfaccia problematica",
+      "description": "Trova un'app o un sito web con problemi di usabilità. Analizza i problemi, proponi soluzioni, e crea un semplice mockup migliorato.",
+      "steps": [
+        "Identifica un'app o un sito con problemi di usabilità",
+        "Analizza 3-5 problemi principali",
+        "Proponi soluzioni concrete per ogni problema",
+        "Crea un semplice mockup o wireframe di una soluzione"
+      ]
+    },
+    {
+      "profession": "Data Scientist",
+      "title": "Analisi di un dataset",
+      "description": "Utilizza un dataset pubblico per estrarre insights significativi attraverso l'analisi e la visualizzazione dei dati.",
+      "steps": [
+        "Scegli un dataset da Kaggle o altre fonti pubbliche",
+        "Pulisci e prepara i dati",
+        "Crea almeno 3 visualizzazioni significative",
+        "Identifica e comunica 2-3 insights rilevanti"
+      ]
+    },
+    {
+      "profession": "Environmental Sustainability Consultant",
+      "title": "Audit di sostenibilità",
+      "description": "Conduci un mini-audit di sostenibilità di un'azienda o prodotto, evidenziando aree di miglioramento e proponendo soluzioni.",
+      "steps": [
+        "Scegli un'azienda o un prodotto da analizzare",
+        "Identifica 3-5 aree critiche dal punto di vista della sostenibilità",
+        "Ricerca best practices e soluzioni innovative nel settore",
+        "Crea un mini-report con proposte concrete di miglioramento"
+      ]
+    }
+  ]
+} 
